@@ -54,6 +54,29 @@ body{
 	display: inline-block;
 	margin: 0 15px 15px;
 }
+#content2, #content3, #content4 {
+	display: none;
+}
+#a1, #a2, #a3 {
+	display: none;
+}
+#a1 {
+	position: absolute;
+	top: 203px;
+	left: 457px;
+}
+#a2 {
+	position: absolute;
+	top: 203px;	
+	left: 673px;
+	
+}
+#a3{
+	position: absolute;
+	top: 203px;
+	left: 750px;
+
+}
 h4{
 	color: red;
 }
